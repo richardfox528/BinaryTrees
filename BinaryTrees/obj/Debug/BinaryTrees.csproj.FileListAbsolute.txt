@@ -1,0 +1,15 @@
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.exe
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.pdb
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.Properties.Resources.resources
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.csproj.GenerateResource.cache
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.exe
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.pdb
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.FormLogin.resources
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.Scenario1.Scenario1Draw.resources
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.FormScenario1.resources
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.Menu.resources
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.Scenario2.FormScenario2.resources
+C:\Users\richa\source\repos\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.Scenario2.Scenario2Draw.resources
